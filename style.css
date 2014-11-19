@@ -1,0 +1,92 @@
+body {
+    padding-top: 60px;
+}
+
+.footer {
+    width: 100%;
+    color: #777;
+}
+
+body {
+    background-image: url('pic/bg.png');
+}
+
+hr {
+    border-top: 1px solid #777;
+    margin-bottom: 8px;
+    margin-top: 3px;
+}
+.footer a{
+    color: #777;
+}
+#footer_list li a:link{
+    color: #777;
+}
+#footer_list li a:visited{
+     color: #777;
+}
+#footer_list li a:hover{
+    color: cornflowerblue;
+}
+
+#home_img {
+    width: 50px;
+    height: 50px;
+}
+
+.widget ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+#single_header h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#post_avatar img{
+    margin-top: 10px;
+    float: right;
+}
+
+#chat-icon {
+    height: 22px;
+    width: 22px;
+}
+
+#icon {
+    top: 2px;
+}
+
+#comment-list-item {
+    padding-bottom: 2px;
+}
+
+#comment-list-item img {
+    margin-right: 10px;
+}
+
+#comment-list-item .media-body {
+    padding-top: 2px;
+}
+
+#comment-list-body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#comment-label {
+    padding-left: 15px; margin-top: 8px;
+}
+
+#comment-alert {
+    margin-bottom: 5px; padding-top: 5px; padding-bottom: 5px;
+}
+
+.comment-reply-title {
+    margin-top: 5px;
+}
+
+#weibo-icon {
+    margin-top: 3px;
+}
